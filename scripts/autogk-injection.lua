@@ -14,8 +14,8 @@ local LocalPlayer = Players.LocalPlayer
 -- Whitelist Configuration - EDIT THESE USER IDS
 local whitelist = {
     [7489944006] = true,  -- Replace with your User ID
-    [987654321] = true,  -- Replace with friend's User ID  
-    [555444333] = true,  -- Add more User IDs as needed
+    [3924020340] = true,  -- Replace with friend's User ID  
+    [942785644] = true,  -- Add more User IDs as needed
 }
 
 -- Security Check Function
