@@ -1,0 +1,1 @@
+# autogk-whitelist-script
