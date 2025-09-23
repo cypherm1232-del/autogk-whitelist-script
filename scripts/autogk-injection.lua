@@ -13,7 +13,7 @@ local LocalPlayer = Players.LocalPlayer
 
 -- Whitelist Configuration - EDIT THESE USER IDS
 local whitelist = {
-    [7489944006] = true,  -- 
+    [8336404549] = true,  -- 
     [3924020340] = true,  -- 
     [942785644] = true,  -- 
 }
