@@ -403,6 +403,6 @@ end)
 -- Startup Messages
 print("🥅 ENHANCED AUTO GOALKEEPER v3.0 LOADED! (INJECTION COMPATIBLE)")
 print("🎮 Controls: H = Toggle ON/OFF | G = Debug Mode")
-print("⚙️ Optimized for injection environments")
+print("🐐 made by the goat svetho")
 print("🔒 Whitelist protection active - User: " .. LocalPlayer.Name .. " (ID: " .. LocalPlayer.UserId .. ")")
 print("✅ Script loaded successfully!")
