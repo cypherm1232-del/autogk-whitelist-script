@@ -21,7 +21,8 @@ local LocalPlayer = Players.LocalPlayer
 local whitelist = {
     [8336404549] = true,  -- 
     [3924020340] = true,  -- 
-    [942785644] = true,  -- 
+    [942785644] = true,  --
+    [337777099] = true,  --
 }
 
 -- Security Check Function
